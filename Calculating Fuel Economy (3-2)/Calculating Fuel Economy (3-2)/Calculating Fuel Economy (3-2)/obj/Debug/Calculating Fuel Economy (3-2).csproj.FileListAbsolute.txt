@@ -1,0 +1,10 @@
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\bin\Debug\Calculating Fuel Economy (3-2).exe.config
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\bin\Debug\Calculating Fuel Economy (3-2).exe
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\bin\Debug\Calculating Fuel Economy (3-2).pdb
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating Fuel Economy (3-2).csprojAssemblyReference.cache
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating_Fuel_Economy__3_2_.Form1.resources
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating_Fuel_Economy__3_2_.Properties.Resources.resources
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating Fuel Economy (3-2).csproj.GenerateResource.cache
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating Fuel Economy (3-2).csproj.CoreCompileInputs.cache
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating Fuel Economy (3-2).exe
+E:\Tutorials\Chapter 3\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\Calculating Fuel Economy (3-2)\obj\Debug\Calculating Fuel Economy (3-2).pdb
